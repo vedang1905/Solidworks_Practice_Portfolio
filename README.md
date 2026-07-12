@@ -15,4 +15,10 @@ Featured Models
 * ** [Click Here to view the interactive 3D STL file](https://github.com/vedang1905/Solidworks_Practice_Portfolio/blob/main/Oval_Flange_Mount.STL)**
 * <img width="819" height="718" alt="Screenshot 2026-07-08 231455" src="https://github.com/user-attachments/assets/dfe86618-a491-446f-9c33-f505357c3892" />
 
+3. Coilover Shock Absorber Assembly
+* **Software:** SolidWorks
+* **Focus:** Complex multi-component mating, helical spring sweep modeling, concentric tolerances, and threaded adjuster design.
+* **Context:** An advanced assembly showcasing dynamic mechanical component alignment and realistic material rendering boundaries.
+* **👉 [Click Here to view the interactive 3D STL file](https://github.com/vedang1905/Solidworks_Practice_Portfolio/blob/main/Shock_Absorber.STL)**
+* <img width="322" height="801" alt="Screenshot 2026-07-12 181625" src="https://github.com/user-attachments/assets/3a42d239-b6e4-4251-943f-1b755d419150" />
 
